@@ -1,0 +1,17 @@
+G:\C#\FTP\FTP\FTP\bin\Debug\FTP.exe
+G:\C#\FTP\FTP\FTP\bin\Debug\FTP.pdb
+G:\C#\FTP\FTP\FTP\bin\Debug\Ftp.dll
+G:\C#\FTP\FTP\FTP\bin\Debug\Ftp.xml
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Login.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Main_FTP.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Upload.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.Cache
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.exe
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.pdb
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.CreateFolder.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Rename.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Loading.resources
+G:\C#\FTP\FTP\FTP\obj\Debug\FTP.Speed.resources
+G:\C#\FTP\FTP\FTP\bin\Debug\NetworkMonitor.dll
